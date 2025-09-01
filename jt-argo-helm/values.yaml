@@ -1,5 +1,6 @@
 image:
-  tag: "1.29"
+  tag: "1.18"
+
 customMessage: "Good Chat from Kubernetes and ArgoCD! Now with Helm!"
+
 nodePort: 30968
-...
